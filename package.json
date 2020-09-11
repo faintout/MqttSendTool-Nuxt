@@ -1,0 +1,15 @@
+{
+  "name": "my-app",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "element-ui": "^2.13.2",
+    "jquery": "^3.5.1",
+    "less-loader": "^7.0.1",
+    "nuxt": "^2.14.4"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "MovingInfoShow",
+    "path": "/MovingInfoShow",
+    "component": "D:\\\\yhn\\\\testNextNew\\\\pages\\\\MovingInfoShow.vue",
+    "chunkName": "pages/MovingInfoShow",
+    "_name": "_4ae5be6d"
+  },
+  {
+    "name": "MqttSendTool",
+    "path": "/MqttSendTool",
+    "component": "D:\\\\yhn\\\\testNextNew\\\\pages\\\\MqttSendTool.vue",
+    "chunkName": "pages/MqttSendTool",
+    "_name": "_5521cd90"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\yhn\\\\testNextNew\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4cf0cdee"
+  }
+]

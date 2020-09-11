@@ -1,0 +1,15 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/MovingInfoShow.js": "pages/MovingInfoShow.js",
+    "pages/MqttSendTool.js": "pages/MqttSendTool.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/MovingInfoShow.js": "pages/MovingInfoShow.js.map",
+    "pages/MqttSendTool.js": "pages/MqttSendTool.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
